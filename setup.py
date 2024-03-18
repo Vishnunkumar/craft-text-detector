@@ -24,7 +24,7 @@ def get_version():
 
 
 setuptools.setup(
-    name="craft-text-detection",
+    name="Craft-Text-Detector",
     version=get_version(),
     author="Fatih Cagatay Akyon",
     license="MIT",
